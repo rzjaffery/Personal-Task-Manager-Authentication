@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Personal Task Manager App</string>
+    <string-array name="priorities">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open drawer</string>
+    <string name="navigation_drawer_close">Close drawer</string>
+    <string name="add_task">Add Task</string>
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="exit">Exit</string>
+    <string name="add_task_heading">Add Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="select_date_dd_mm_yyyy">Select Date (dd/MM/yyyy)</string>
+    <string name="save_task">Save Task</string>
+    <string name="edit_task_heading">Edit Task</string>
+    <string name="update_task">Update Task</string>
+    <string name="personal_task_manager">Personal Task Manager</string>
+    <string name="the_app_which_manages_all_your_load">The app which manages all your load</string>
+    <string name="start_tasking">Start Tasking</string>
+    <string name="due_30_07_2025">Due: 30/07/2025</string>
+    <string name="task_description_goes_here">Task Description goes here</string>
+    <string name="priority_high">Priority: High</string>
+    <string name="task_title">Task Title</string>
+    <string name="add_task_button">Add Task</string>
+
+
+</resources>

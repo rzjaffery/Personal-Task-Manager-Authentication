@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:background="@color/blue_1"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/personal_task_manager"
+        android:textSize="24sp"
+        android:textColor="@color/blue_5"
+    android:fontFamily="@font/castoro_titling"
+        android:textStyle="bold"
+        android:padding="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/castoro_titling"
+        android:padding="10dp"
+        android:text="@string/the_app_which_manages_all_your_load"
+        android:textAlignment="center"
+        android:textColor="@color/blue_5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:ignore="TextSizeCheck" />
+
+    <Button
+        android:id="@+id/button_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    android:fontFamily="@font/castoro_titling"
+        android:text="@string/start_tasking"
+        android:backgroundTint="@color/blue_3"
+        android:textColor="@color/blue_5"
+        android:padding="10dp"
+        android:textStyle="bold"/>
+</LinearLayout>

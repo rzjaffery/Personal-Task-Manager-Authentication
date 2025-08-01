@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_add_task"
+        android:title="@string/add_task"
+        android:icon="@drawable/add_24px" />
+    <item
+        android:id="@+id/nav_pending"
+        android:title="@string/pending_tasks"
+        android:icon="@drawable/pending_actions_24px" />
+    <item
+        android:id="@+id/nav_completed"
+        android:title="@string/completed_tasks"
+        android:icon="@drawable/done_all_24px" />
+    <item
+        android:id="@+id/nav_exit"
+        android:title="@string/exit"
+        android:icon="@drawable/exit_to_app_24px" />
+</menu>

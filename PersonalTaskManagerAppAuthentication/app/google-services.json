@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950411343485",
+    "project_id": "personal-task-manager-app-den",
+    "storage_bucket": "personal-task-manager-app-den.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950411343485:android:158e28dedc530e99baa314",
+        "android_client_info": {
+          "package_name": "com.rzjaffery.personaltaskmanagerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkFvw5as_-lxIWWmtWeh5hg1FVxojQXWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
